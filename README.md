@@ -44,8 +44,6 @@ dart main.dart
 
 # 🎯 Arquitectura
 
-## 📂 Estructura del Proyecto
-
 ```
 📦 Tarea La Herencia en POO
  ┣ 📂 entidades
