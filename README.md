@@ -44,13 +44,17 @@ dart main.dart
 
 # 🎯 Arquitectura
 
-📦Tarea La Herencia en POO
- ┣ 📂entidades
- ┃ ┣ 📂hijas
- ┃ ┃ ┣ 📜circulo.dart
- ┃ ┃ ┣ 📜rectangulo.dart
- ┃ ┃ ┗ 📜trianguloRectangulo.dart
- ┃ ┗ 📂padres
- ┃ ┃ ┗ 📜figura.dart
- ┣ 📜main.dart
- ┗ 📜README.md
+## 📂 Estructura del Proyecto
+
+```
+📦 Tarea La Herencia en POO
+ ┣ 📂 entidades
+ ┃ ┣ 📂 hijas
+ ┃ ┃ ┣ 📜 circulo.dart
+ ┃ ┃ ┣ 📜 rectangulo.dart
+ ┃ ┃ ┗ 📜 trianguloRectangulo.dart
+ ┃ ┗ 📂 padres
+ ┃   ┗ 📜 figura.dart
+ ┣ 📜 main.dart
+ ┗ 📜 README.md
+```
